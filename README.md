@@ -1,2 +1,2 @@
 # World-Cup-Database
-PostgreSQL Project
+PostgreSQL Project for freecodecamp.com
